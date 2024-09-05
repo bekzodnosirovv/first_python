@@ -59,6 +59,9 @@ sonlar=[15,20,12,11,54,23,47,46,34]
  #   print("son emas")
 
 print("Salom")
+name="Bekzod"
+age=27
+language="Java"
 
 
 
